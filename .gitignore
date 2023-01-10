@@ -33,7 +33,7 @@ pip-delete-this-directory.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.pdf
+*.pdf
 
 # IPython
 profile_default/
@@ -50,4 +50,3 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
